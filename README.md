@@ -34,4 +34,4 @@ Each project is written to clearly demonstrate understanding of the concept rath
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Taufiq1727/python-projects-.git
