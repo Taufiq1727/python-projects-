@@ -38,7 +38,7 @@ for question in questions:
         print("Correct answer")
 
     else:
-        print("Incorrect answer\n The correct answer was {question[5]}")
+        print("Incorrect answer\n The correct answer was", {question[5]})
         break
     print("You won",prizes[i])
     i +=1
