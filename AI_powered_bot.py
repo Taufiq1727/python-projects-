@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-key = #Can't just write my api keyt asi
+key = #Can't just write my api key as this is uploaded in git hub
 
 messages = []
 
@@ -32,3 +32,4 @@ if __name__ == "__main__":
         user_question = input()
         print(f"User : {user_question}")
         completion(user_question)
+
